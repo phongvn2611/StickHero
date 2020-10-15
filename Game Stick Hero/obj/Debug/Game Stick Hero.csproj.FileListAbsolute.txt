@@ -1,0 +1,11 @@
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\bin\Debug\Game Stick Hero.exe.config
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\bin\Debug\Game Stick Hero.exe
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\bin\Debug\Game Stick Hero.pdb
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game Stick Hero.csprojAssemblyReference.cache
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game_Stick_Hero.Properties.Resources.resources
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game Stick Hero.csproj.GenerateResource.cache
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game Stick Hero.csproj.CoreCompileInputs.cache
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game Stick Hero.exe
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game Stick Hero.pdb
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game_Stick_Hero.frmMain.resources
+D:\Phần mềm cá nhân\Game Stick Hero\Game Stick Hero\obj\Debug\Game_Stick_Hero.frmWelcome.resources
